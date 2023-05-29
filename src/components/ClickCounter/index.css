@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.span {
+  font-size: 35px;
+  color: brown;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.btn {
+  height: 25px;
+  width: 85px;
+  color: aliceblue;
+  background-color: skyblue;
+  padding: auto;
+  border-width: 0px;
+}
